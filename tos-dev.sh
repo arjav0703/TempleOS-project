@@ -5,4 +5,4 @@ qemu-system-x86_64 \
   -hda "./templeos-hdd.img" \
   -cdrom "./ProjectCD.iso" \
   -boot c \
-  -m 600
+  -m 600 \

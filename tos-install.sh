@@ -6,4 +6,5 @@ qemu-system-x86_64 \
   -cdrom "./TempleOSCD.ISO" \
   -hda "./templeos-hdd.img" \
   -boot d \
-  -m 600
+  -m 600 \
+  -display cocoa,zoom-to-fit=on
