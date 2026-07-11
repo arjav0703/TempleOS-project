@@ -7,4 +7,10 @@ F64 DetectUptime() {
   return uptime;
 }
 
+U8 *OSName() {
+  return "Temple OS";
+}
+
+Print("OS Name: %s\n", OSName());
+
 Print("Uptime: %f seconds\n", DetectUptime());
