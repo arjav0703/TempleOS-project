@@ -3,6 +3,10 @@ This is a neofetch like fetch utility for TempleOS.
 
 ![TempleFetch](./tosimg.png)
 
+https://github.com/user-attachments/assets/cc06554b-bbbf-4728-814b-ceb912524571
+
+
+
 
 This was built entirely in HolyC which is the programming language used in TempleOS and this was my first time using HolyC so the code is probably not very good. I also had a hard time to figure out how to get a qemu virtual disk to work with TempleOS so I had to do a lot of experimentation with OS configuration to get it right.
 
